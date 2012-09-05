@@ -1,4 +1,6 @@
 @echo off
+REM This script can be used to sideload more than one BAR file at the same time
+REM Dependencies: BlackBerry 10 WebWorks SDK
 SET tools=C:\Progra~1\Resear~1\BLACKB~1.8\bbwp\dependencies\tools\bin
 if [%1]==[] (
 	echo Syntax is "loadApps <device address> <device password>"
