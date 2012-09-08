@@ -1,10 +1,13 @@
 # JAM43 : Optimization and Performance for Web Developers
 
 ## Session
+JAM43 Lab: Optimization and Performance for Web Developers
 
 ## Description
+Get some kick out of your web apps. This lab will walk you through BlackBerry® 10 web application samples, showing tips and tricks for debugging and optimizing for performance. Follow along as you learn more about remote web inspector including such profiling and debugging features as: timeline, live editing and setting XHR breakpoints. This session is ideal for developers who want to refine their skills in app development to speed up development cycles and get the best performance from their web apps.
 
 ## Key-Takeaways
+Learn coding and debugging tips and tricks to improve performance in your web apps
 
 ## Created By 
 * [Adam Stanley](https://twitter.com/#!/n_adam_stanley)
